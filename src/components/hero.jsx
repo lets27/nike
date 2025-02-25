@@ -10,7 +10,6 @@ const Hero = () => {
       className=" padding-x w-full  flex xl:flex-row flex-col gap-10  items-center min-h-screen max-container "
     >
       <div className="relative xl:w-2/5 flex flex-col justify-center items-start w-full max-xl:padding-x pt-28">
-        <p className="">our summer collection</p>
         <h1 className="mt-10 font-palanquin text-8xl max-sm:text-[32px] max-sm:leading-[62px] font-bold">
           <span className="font-montserrat text-8xl  xl:bg-white xl:whitespace-nowrap relative z-10 pr-10">
             the new arrivial
